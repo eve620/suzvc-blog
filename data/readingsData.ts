@@ -103,17 +103,6 @@ const readingsData = {
       href: 'https://frontendmasters.com/courses/everything-git/',
     },
   ],
-  其他: [
-    {
-      title: '我看过的Youtube高质量视频',
-      href: 'https://www.youtube.com/playlist?list=PLtc4S9-a2fprxWMv_ZR0ggxJOdXAT_Gd5',
-      status: 'done',
-    },
-    {
-      title: '面试现场 - 极客时间',
-      href: 'https://time.geekbang.org/column/intro/100023401',
-    },
-  ],
 }
 
 export default readingsData
