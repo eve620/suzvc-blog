@@ -7,9 +7,7 @@ export default function Resources() {
   return (
     <>
       <div className="space-y-2 pb-8 pt-6 md:space-y-5">
-        <p className="text-md leading-7 text-gray-500 dark:text-gray-400">
-          ~~~
-        </p>
+        {/*<p className="text-md leading-7 text-gray-500 dark:text-gray-400"></p>*/}
         <p className="text-md leading-7 text-gray-500 dark:text-gray-400">
           以下是我学过的、正在学习的或想学的好资源，推荐给大家。
         </p>
